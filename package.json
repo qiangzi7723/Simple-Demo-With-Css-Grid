@@ -1,0 +1,22 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "There are some simple demo make with css grid.If you want more demo you could jump to this [website](https://gridbyexample.com/).",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiangzi7723/Simple-Demo-With-Css-Grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiangzi7723/Simple-Demo-With-Css-Grid/issues"
+  },
+  "homepage": "https://github.com/qiangzi7723/Simple-Demo-With-Css-Grid#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
